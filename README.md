@@ -1,1 +1,2 @@
-<h2 align="center">Hello there👋🤓</h2>
+[![APyakz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BanguisMV)](https://github.com/anuraghazra/github-readme-stats)
+
