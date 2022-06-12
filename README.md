@@ -1,5 +1,5 @@
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Marky</h1>
+<h1 align="center">Hi <img width="35" src="https://user-images.githubusercontent.com/49338297/173238305-1bd403fb-fd7f-4cc0-bff2-0f17db7edf5c.gif">, I'm Marky</h1>
 <h4 align="center">A full time Software Engineer and also third year Computer Science student.</h4>
 </div>
