@@ -18,23 +18,15 @@
 
 <br />
 
-## `$ whoami`
+## About
 
-```js
-const mark = {
-  role:       "Fullstack Software Engineer",
-  experience: "5 years",
-  location:   "Surigao City, Philippines 🇵🇭",
-  workStyle:  "Remote",
-  building:   ["full-stack web apps", "AI / RAG-powered features", "background job pipelines"],
-  offering:   ["solo MVP builder", "long-term maintainer", "team lead when you scale"],
-  reachMe:    "mark@banguis.com",
-};
-```
+You don't need a dev team yet. You need the right first developer.
+
+With **5 years of experience** as a fullstack developer, I build web apps end-to-end, from the interface to the backend, background jobs, and deployment. I can be your **solo builder** for the MVP, your **maintainer** once it's live, and your **lead** when you're ready to grow the team.
 
 <br />
 
-## `$ ls ./stack`
+## Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,bun,go,ts,react,nextjs,nestjs,graphql&theme=dark" alt="Languages and frameworks" />
@@ -57,19 +49,6 @@ const mark = {
   <img src="https://img.shields.io/badge/Claude-FAFAF9?style=flat-square&logo=anthropic&logoColor=18181B" />
   <img src="https://img.shields.io/badge/DeepSeek-FAFAF9?style=flat-square&logoColor=18181B" />
   <img src="https://img.shields.io/badge/n8n-FAFAF9?style=flat-square&logo=n8n&logoColor=EA4B71" />
-</p>
-
-<br />
-
-## `$ git log --stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pyakz&show_icons=true&hide_border=true&bg_color=18181B&title_color=FAFAF9&text_color=A1A1AA&icon_color=FAFAF9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyakz&layout=compact&hide_border=true&bg_color=18181B&title_color=FAFAF9&text_color=A1A1AA" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pyakz&hide_border=true&bg_color=18181B&color=A1A1AA&line=FAFAF9&point=FAFAF9&area=true&area_color=3F3F46" alt="Contribution graph" />
 </p>
 
 <br />
